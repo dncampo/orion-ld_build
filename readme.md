@@ -1,8 +1,6 @@
-// README.md
-
 # Intro
 
-This repo implements a docker solution for the compilation of Orion-LD from sources, following the [tutorial](https://github.com/FIWARE/context.Orion-LD/blob/develop/doc/manuals-ld/installation-guide-ubuntu-18.04.3.md).
+This repository implements a docker solution for the compilation of Orion-LD from sources, following the [tutorial](https://github.com/FIWARE/context.Orion-LD/blob/develop/doc/manuals-ld/installation-guide-ubuntu-18.04.3.md).
 
 
 ## Table of Contents
